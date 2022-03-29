@@ -1,0 +1,61 @@
+.nav {
+  width: 100%;
+  border-bottom: 2px solid #f1f1f1;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.avatarWrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 10%;
+  align-items: center;
+  z-index: 200;
+}
+
+.MuiAvatar-root > p {
+  margin-left: 2%;
+  font-size: 22px;
+}
+
+/* #holderNavLink {
+  list-style: none;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#holderNavLink > li {
+  padding: 18px 10px;
+}
+
+.open {
+  transform: translateY(0%)
+}
+
+.inactive {
+  transform: translateY(190%)
+}
+
+@media screen and (max-width: 768px){
+  #holderNavLink {
+    flex-flow: column nowrap;
+    background-color: #fff;
+    position: fixed;
+    transition: transform 0.3s ease-in-out;
+    bottom: -5%;
+    left: 0%;
+    height: 110%;
+    width: 100%;
+    border-radius: 24px;
+  }
+
+  #holderNavLink > li {
+      color: white;
+  }
+}
+
+transform: ${({ open }) => (open ? 'translateY(0%)' : 'translateY(190%)')}; */ ;

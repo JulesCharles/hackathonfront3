@@ -1,0 +1,207 @@
+.jauge {
+  background-color: #96cd32;
+  width: 100px;
+  height: 4px;
+  position: absolute;
+  left: 125px;
+  top: 105px;
+}
+
+.jauge2 {
+  background-color: #daddfc;
+  width: 40px;
+  height: 4px;
+  position: absolute;
+  left: 225px;
+  top: 105px;
+}
+
+.jauge3 {
+  background-color: #96cd32;
+  width: 105px;
+  height: 4px;
+  position: absolute;
+  left: 252px;
+  margin-top: 84px;
+}
+
+.jauge4 {
+  background-color: #daddfc;
+  width: 70px;
+  height: 4px;
+  position: absolute;
+  left: 286px;
+  margin-top: 84px;
+}
+
+.jauge5 {
+  background-color: #96cd32;
+  width: 104px;
+  height: 4px;
+  position: absolute;
+  left: 252px;
+  margin-top: 7px;
+  z-index: 10;
+}
+
+.jauge6 {
+  background-color: #96cd32;
+  width: 51px;
+  height: 4px;
+  position: absolute;
+  left: 251px;
+  margin-top: 54px;
+  z-index: 10;
+}
+
+.jauge8 {
+  background-color: #daddfc;
+  width: 70px;
+  height: 4px;
+  position: absolute;
+  left: 286px;
+  margin-top: 182px;
+}
+
+.point1 {
+  position: absolute;
+  margin-top: 89px;
+  font-size: 0.7rem;
+  margin-left: 252px;
+}
+
+.obj {
+  display: flex;
+  flex-direction: column;
+  margin-top: 45px;
+}
+
+.point2 {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: flex-end; */
+  padding: left;
+  /* padding-top: 178px; */
+  position: absolute;
+  line-height: 15;
+  font-size: 0.7rem;
+  padding-left: 252px;
+  padding-top: 64px;
+}
+
+.point3 {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: flex-end; */
+  padding: left;
+  /* padding-top: 178px; */
+  position: absolute;
+  line-height: 15;
+  font-size: 0.7rem;
+  padding-left: 254px;
+  padding-top: 112px;
+}
+
+.points {
+  font-size: 0.7rem;
+  position: absolute;
+  left: 141px;
+  top: 115px;
+}
+
+.jauge7 {
+  background-color: #daddfc;
+  width: 70px;
+  height: 4px;
+  position: absolute;
+  left: 287px;
+  margin-top: 135px;
+}
+
+.logoQuiz {
+  margin-left: 90px;
+  padding-top: 57px;
+  width: 200px;
+  margin-top: 40px;
+}
+
+.objectifs {
+  font-size: 1.1rem;
+  position: absolute;
+  padding-left: 65px;
+  padding-top: 22px;
+}
+
+.FaRocket {
+  width: 200px;
+}
+
+.stylo {
+  position: absolute;
+  padding-left: 74px;
+  padding-top: 80px;
+}
+
+.enceinte {
+  position: absolute;
+  padding-left: 74px;
+  padding-top: 128px;
+}
+
+.fusee {
+  position: absolute;
+  margin-left: -56px;
+  /* padding-bottom: 19px; */
+  margin-top: -12px;
+}
+
+.cadeau {
+  position: absolute;
+  margin-top: -8px;
+  margin-left: -28%;
+}
+
+.cheque {
+  position: absolute;
+  padding-left: 4px;
+  padding-top: 385px;
+}
+.bourseGlobal {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  padding-top: 170px;
+  padding-left: 24px;
+}
+.textBourse {
+  margin: 7px 10px;
+}
+.bourse {
+  width: 44px;
+  margin-left: -3px;
+}
+
+.title {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 84px;
+}
+
+.objectifs > p {
+  color: black;
+  font-weight: 700;
+}
+
+.title > p {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 8%;
+  font-weight: 700;
+}
+
+.perso {
+  position: absolute;
+  margin-top: -29px;
+  margin-left: 60px;
+}
